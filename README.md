@@ -10,6 +10,7 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 ### FrontEnd
 - [poc-frontend-react-design-tokens](https://github.com/ERNI-Academy/poc-frontend-react-design-tokens.git)
+- [guideline-react-project-example](https://github.com/ERNI-Academy/guideline-react-project-example.git)
 
 ### Quality Assurance
 - *Quality assurance...*
