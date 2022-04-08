@@ -1,36 +1,45 @@
-![GitHub Logo](/assets/logo-standard.png)
+![GitHub Logo](./assets/logo-standard.png)
 
 # Awesome resources for developing projects
+
 A curated list of awesome repository Guidelines, PoC's, StarterKits and many resources. Things to help/grow you in *Technical* area.
 
 Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
-### BackEnd
+## BackEnd
+
 - *BackEnd Development...*
 
-### FrontEnd
+## FrontEnd
+
 - [poc-frontend-react-design-tokens](https://github.com/ERNI-Academy/poc-frontend-react-design-tokens.git)
 - [guideline-react-project-example](https://github.com/ERNI-Academy/guideline-react-project-example.git)
 - [starterkit-angular-and-dotnet-api](https://github.com/ERNI-Academy/starterkit-angular-and-dotnet-api)
 
-### Mobile
+## Mobile
+
 - [starterkit-mobile-application](https://github.com/ERNI-Academy/starterkit-mobile-application)
 
-### Quality Assurance
+## Quality Assurance
+
 - *Quality assurance...*
 
-### Cloud
+## Cloud
+
 - *Public and Private Cloud Platforms.*
 
-### DevOps
+## DevOps
+
 - *Continuous integration, continuous deployment...*
 
-### Management
+## Management
+
 - *Requirements analysis and design...*
 
-### Embedded
+## Embedded
+
 - *Embedded systems...*
 
-# License
+## License
 
 [MIT](LICENSE) © 2021 [ERNI - Swiss Software Engineering](https://www.betterask.erni)
