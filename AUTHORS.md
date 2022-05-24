@@ -8,4 +8,4 @@ source control.
 Names should be added to this file as:
 Organization, Name and ```<GitHub link>```
 
-- Roberto González Abreu [@rgonzalezabreu](https://github.com/rgonzalezabreu)
+- *ERNI* Roberto González Abreu [@rgonzalezabreu](https://github.com/rgonzalezabreu)
