@@ -31,13 +31,19 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 - [asset-cosmosdb-rediscache-docker-compose](https://github.com/ERNI-Academy/assets-cosmosdb-rediscache-docker-compose)
 
-## DevOps
-
-- *Continuous integration, continuous deployment...*
 
 ## Cybersecurity
 
 - [poc-cibersecurity-framework-net-ssh-tunneler](https://github.com/ERNI-Academy/poc-cibersecurity-framework-net-ssh-tunneler)
+
+
+## DevOps
+
+- [asset-devops-github-actions-nugetpush](https://github.com/ERNI-Academy/assets-github-actions-dotnet-nugetpush)
+- [asset-devops-github-actions-sonarcloud](https://github.com/ERNI-Academy/assets-github-actions-dotnet-sonarcloud)
+- [starterkit-devops-ansible-playbooks](https://github.com/ERNI-Academy/starterkit-devops-ansible-playbooks)
+- [starterkit-devops-iac-terraform-azure](https://github.com/ERNI-Academy/assets-iac-terraform-azure)
+- [asset-devops-azure-pipelines](https://github.com/ERNI-Academy/assets-azuredevops-pipelines)
 
 ## Management
 
