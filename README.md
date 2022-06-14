@@ -29,7 +29,7 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 ## Cloud
 
-- *Public and Private Cloud Platforms.*
+- [asset-cosmosdb-rediscache-docker-compose](https://github.com/ERNI-Academy/assets-cosmosdb-rediscache-docker-compose)
 
 ## DevOps
 
