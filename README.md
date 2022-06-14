@@ -5,6 +5,9 @@
 A curated list of awesome repository Guidelines, PoC's, StarterKits and many resources. Things to help/grow you in *Technical* area.
 
 Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
+## Trainning 
+
+- [training-get-fit-at-git](https://github.com/ERNI-Academy/starterkit-angular-and-dotnet-api](https://github.com/ERNI-Academy/training-get-fit-at-git)
 
 ## BackEnd
 
