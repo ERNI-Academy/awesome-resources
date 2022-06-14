@@ -7,7 +7,7 @@ A curated list of awesome repository Guidelines, PoC's, StarterKits and many res
 Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 ## Trainning 
 
-- [training-get-fit-at-git] (https://github.com/ERNI-Academy/starterkit-angular-and-dotnet-api](https://github.com/ERNI-Academy/training-get-fit-at-git)
+- [training-get-fit-at-git](https://github.com/ERNI-Academy/training-get-fit-at-git)
 
 ## BackEnd
 
@@ -37,7 +37,7 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 ## Cybersecurity
 
-- [poc-cibersecurity-framework-net-ssh-tunneler](https://github.com/ERNI-Academy/starterkit-mobile-application](https://github.com/ERNI-Academy/poc-cibersecurity-framework-net-ssh-tunneler)
+- [poc-cibersecurity-framework-net-ssh-tunneler](https://github.com/ERNI-Academy/poc-cibersecurity-framework-net-ssh-tunneler)
 
 ## Management
 
