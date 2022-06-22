@@ -48,8 +48,9 @@ Please, pay attention to the new repository name and follow this simple schema:
 | poc        | proof of concept |
 | starterkit | Starter Kit      |
 | guideline  | Guideline        |
-| asset      | Asset        |
-| training   | Training        |
+| asset      | Asset            |
+| framework  | Framework        |
+| training   | Training         |
 
 **Examples:**
 
