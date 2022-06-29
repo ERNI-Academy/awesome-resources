@@ -51,6 +51,7 @@ Please, pay attention to the new repository name and follow this simple schema:
 | asset      | Asset            |
 | framework  | Framework        |
 | training   | Training         |
+| action     | Github Action    |
 
 **Examples:**
 
