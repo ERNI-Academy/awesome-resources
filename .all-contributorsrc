@@ -49,6 +49,19 @@
         "maintenance",
         "review"
       ]
+    },
+    {
+      "login": "mdelgadodiaz83-erni",
+      "name": "mdelgadodiaz83-erni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85220317?v=4",
+      "profile": "https://github.com/mdelgadodiaz83-erni",
+      "contributions": [
+        "content",
+        "doc",
+        "design",
+        "maintenance",
+        "review"
+      ]
     }
   ],
   "projectName": "awesome-resources"
