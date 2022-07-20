@@ -2,7 +2,7 @@
 
 # Awesome resources for developing projects
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 A curated list of awesome repository Guidelines, PoC's, StarterKits and many resources. Things to help/grow you in *Technical* area.
 
@@ -81,6 +81,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/LopezMDidac"><img src="https://avatars.githubusercontent.com/u/20030140?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Didac Lopez</b></sub></a><br /><a href="#content-LopezMDidac" title="Content">🖋</a> <a href="https://github.com/ERNI-Academy/awesome-resources/commits?author=LopezMDidac" title="Documentation">📖</a> <a href="#design-LopezMDidac" title="Design">🎨</a> <a href="#maintenance-LopezMDidac" title="Maintenance">🚧</a> <a href="https://github.com/ERNI-Academy/awesome-resources/pulls?q=is%3Apr+reviewed-by%3ALopezMDidac" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://axeltaylor.dev"><img src="https://avatars.githubusercontent.com/u/5933493?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Axel Taylor</b></sub></a><br /><a href="#content-axeltaylor" title="Content">🖋</a> <a href="https://github.com/ERNI-Academy/awesome-resources/commits?author=axeltaylor" title="Documentation">📖</a> <a href="#design-axeltaylor" title="Design">🎨</a> <a href="#maintenance-axeltaylor" title="Maintenance">🚧</a> <a href="https://github.com/ERNI-Academy/awesome-resources/pulls?q=is%3Apr+reviewed-by%3Aaxeltaylor" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
