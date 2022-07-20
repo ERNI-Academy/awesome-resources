@@ -1,7 +1,8 @@
 ![GitHub Logo](./assets/logo-standard.png)
 
 # Awesome resources for developing projects
-
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 A curated list of awesome repository Guidelines, PoC's, StarterKits and many resources. Things to help/grow you in *Technical* area.
 
 Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
@@ -25,7 +26,8 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 ## Quality Assurance
 
-- *Quality assurance...*
+- [https://github.com/ERNI-Academy/net6-automation-testware](https://github.com/ERNI-Academy/net6-automation-testware)
+- [https://github.com/ERNI-Academy/poc-chaos-preformance-resiliency-testing](https://github.com/ERNI-Academy/poc-chaos-preformance-resiliency-testing)
 
 ## Cloud
 
@@ -55,4 +57,24 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 ## License
 
-[MIT](LICENSE) © 2021 [ERNI - Swiss Software Engineering](https://www.betterask.erni)
+[MIT](LICENSE) © 2022 [ERNI - Swiss Software Engineering](https://www.betterask.erni)
+
+## Follow us
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ERNI?style=social)](https://www.twitter.com/ERNI)
+[![Twitch Status](https://img.shields.io/twitch/status/erni_academy?label=Twitch%20Erni%20Academy&style=social)](https://www.twitch.tv/erni_academy)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkdDcxjml85-Ydn7Dc577WQ?label=Youtube%20Erni%20Academy&style=social)](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ)
+[![Linkedin](https://img.shields.io/badge/linkedin-31k-green?style=social&logo=Linkedin)](https://www.linkedin.com/company/erni)
+
+## Contact
+
+📧 [esp-services@betterask.erni](mailto:esp-services@betterask.erni)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
