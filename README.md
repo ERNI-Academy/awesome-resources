@@ -24,7 +24,7 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 ## Mobile
 
 - [starterkit-mobile-application](https://github.com/ERNI-Academy/starterkit-mobile-application)
-- [starterkit-mobile-application](https://github.com/ERNI-Academy/starterkit-ionic-mobile-application)
+- [starterkit-ionic-mobile-application](https://github.com/ERNI-Academy/starterkit-ionic-mobile-application)
 
 ## Quality Assurance
 
