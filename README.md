@@ -34,6 +34,7 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 ## Cloud
 
 - [asset-cosmosdb-rediscache-docker-compose](https://github.com/ERNI-Academy/assets-cosmosdb-rediscache-docker-compose)
+- [poc-dotnet-distributed-telemetry](https://github.com/ERNI-Academy/poc-dotnet-distributed-telemetry)
 
 
 ## Cybersecurity
