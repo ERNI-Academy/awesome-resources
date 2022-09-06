@@ -58,6 +58,8 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 ## GitHub Actions
 
 - [action-eventbrite-events-to-md](https://github.com/ERNI-Academy/action-eventbrite-events-to-md)
+- [assets-github-actions-dotnet-nugetpush](https://github.com/ERNI-Academy/assets-github-actions-dotnet-nugetpush)
+- [assets-github-actions-dotnet-sonarcloud](https://github.com/ERNI-Academy/assets-github-actions-dotnet-sonarcloud)
 
 ## Embedded
 
