@@ -28,8 +28,8 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 ## Quality Assurance
 
-- [https://github.com/ERNI-Academy/net6-automation-testware](https://github.com/ERNI-Academy/net6-automation-testware)
-- [https://github.com/ERNI-Academy/poc-chaos-preformance-resiliency-testing](https://github.com/ERNI-Academy/poc-chaos-preformance-resiliency-testing)
+- [net6-automation-testware](https://github.com/ERNI-Academy/net6-automation-testware)
+- [poc-chaos-preformance-resiliency-testing](https://github.com/ERNI-Academy/poc-chaos-preformance-resiliency-testing)
 
 ## Cloud
 
