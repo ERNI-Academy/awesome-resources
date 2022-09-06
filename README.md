@@ -16,6 +16,7 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 - [assets-cache-abstraction](https://github.com/ERNI-Academy/assets-cache-abstraction)
 - [assets-cloud-storage-abstraction](https://github.com/ERNI-Academy/assets-cloud-storage-abstraction)
 - [assets-events-abstraction](https://github.com/ERNI-Academy/assets-events-abstraction)
+- [asset-restfullapi-hateoas](https://github.com/ERNI-Academy/asset-restfullapi-hateoas)
 
 ## FrontEnd
 
