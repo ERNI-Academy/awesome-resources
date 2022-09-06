@@ -7,13 +7,19 @@
 A curated list of awesome repository Guidelines, PoC's, StarterKits and many resources. Things to help/grow you in *Technical* area.
 
 Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
-## Trainning 
+## Training 
 
 - [training-get-fit-at-git](https://github.com/ERNI-Academy/training-get-fit-at-git)
 
 ## BackEnd
 
-- *BackEnd Development...*
+- [assets-cache-abstraction](https://github.com/ERNI-Academy/assets-cache-abstraction)
+- [assets-cloud-storage-abstraction](https://github.com/ERNI-Academy/assets-cloud-storage-abstraction)
+- [assets-events-abstraction](https://github.com/ERNI-Academy/assets-events-abstraction)
+- [assets-serializers-abstraction](https://github.com/ERNI-Academy/assets-serializers-abstraction)
+- [assets-cloud-servicebus-abstraction](https://github.com/ERNI-Academy/assets-cloud-servicebus-abstraction)
+- [asset-restfullapi-hateoas](https://github.com/ERNI-Academy/asset-restfullapi-hateoas)
+
 
 ## FrontEnd
 
@@ -24,20 +30,19 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 ## Mobile
 
 - [starterkit-mobile-application](https://github.com/ERNI-Academy/starterkit-mobile-application)
-- [starterkit-mobile-application-xamarin](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin)
 - [starterkit-mobile-application-maui](https://github.com/ERNI-Academy/starterkit-mobile-application-maui)
-- [starterkit-mobile-application-flutter](https://github.com/ERNI-Academy/starterkit-mobile-application-flutter)
-- [starterkit-mobile-application-react-native](https://github.com/ERNI-Academy/starterkit-mobile-application-react-native)
+- [starterkit-mobile-application-xamarin](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin)
 - [starterkit-mobile-application-ionic](https://github.com/ERNI-Academy/starterkit-mobile-application-ionic)
 
 ## Quality Assurance
 
-- [https://github.com/ERNI-Academy/net6-automation-testware](https://github.com/ERNI-Academy/net6-automation-testware)
-- [https://github.com/ERNI-Academy/poc-chaos-preformance-resiliency-testing](https://github.com/ERNI-Academy/poc-chaos-preformance-resiliency-testing)
+- [net6-automation-testware](https://github.com/ERNI-Academy/net6-automation-testware)
+- [poc-chaos-preformance-resiliency-testing](https://github.com/ERNI-Academy/poc-chaos-preformance-resiliency-testing)
 
 ## Cloud
 
 - [asset-cosmosdb-rediscache-docker-compose](https://github.com/ERNI-Academy/assets-cosmosdb-rediscache-docker-compose)
+- [poc-dotnet-distributed-telemetry](https://github.com/ERNI-Academy/poc-dotnet-distributed-telemetry)
 
 
 ## Cybersecurity
@@ -53,9 +58,11 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 - [starterkit-devops-iac-terraform-azure](https://github.com/ERNI-Academy/assets-iac-terraform-azure)
 - [asset-devops-azure-pipelines](https://github.com/ERNI-Academy/assets-azuredevops-pipelines)
 
-## Management
+## GitHub Actions
 
-- *Requirements analysis and design...*
+- [action-eventbrite-events-to-md](https://github.com/ERNI-Academy/action-eventbrite-events-to-md)
+- [assets-github-actions-dotnet-nugetpush](https://github.com/ERNI-Academy/assets-github-actions-dotnet-nugetpush)
+- [assets-github-actions-dotnet-sonarcloud](https://github.com/ERNI-Academy/assets-github-actions-dotnet-sonarcloud)
 
 ## Embedded
 
