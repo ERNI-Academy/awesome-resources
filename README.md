@@ -50,9 +50,9 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 - [starterkit-devops-iac-terraform-azure](https://github.com/ERNI-Academy/assets-iac-terraform-azure)
 - [asset-devops-azure-pipelines](https://github.com/ERNI-Academy/assets-azuredevops-pipelines)
 
-## Management
+## GitHub Actions
 
-- *Requirements analysis and design...*
+- [action-eventbrite-events-to-md](https://github.com/ERNI-Academy/action-eventbrite-events-to-md)
 
 ## Embedded
 
