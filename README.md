@@ -24,6 +24,11 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 ## Mobile
 
 - [starterkit-mobile-application](https://github.com/ERNI-Academy/starterkit-mobile-application)
+- [starterkit-mobile-application-xamarin](https://github.com/ERNI-Academy/starterkit-mobile-application-xamarin)
+- [starterkit-mobile-application-maui](https://github.com/ERNI-Academy/starterkit-mobile-application-maui)
+- [starterkit-mobile-application-flutter](https://github.com/ERNI-Academy/starterkit-mobile-application-flutter)
+- [starterkit-mobile-application-react-native](https://github.com/ERNI-Academy/starterkit-mobile-application-react-native)
+- [starterkit-mobile-application-ionic](https://github.com/ERNI-Academy/starterkit-mobile-application-ionic)
 
 ## Quality Assurance
 
