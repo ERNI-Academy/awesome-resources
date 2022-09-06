@@ -24,6 +24,7 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 ## Mobile
 
 - [starterkit-mobile-application](https://github.com/ERNI-Academy/starterkit-mobile-application)
+- [starterkit-mobile-application-maui](https://github.com/ERNI-Academy/starterkit-mobile-application-maui)
 
 ## Quality Assurance
 
